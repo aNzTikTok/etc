@@ -15,3 +15,4 @@ dnsmasq:x:453:dnsmasq
 logd:x:514:logd
 minidlna:x:32768:minidlna
 ubus:x:81:ubus
+sing-box:x:5566:sing-box

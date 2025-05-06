@@ -17,5 +17,6 @@ config sms_tool_js
 	option checktime '10'
 	option prestart '6'
 	option ledtype 'D'
-	option sms_count '0'
+	option sms_count '4'
+	option sms_count_index '3 2 1 0'
 
